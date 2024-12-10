@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(18, 10, 10);
+    color: #fff;
+}
+
+.menu{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(166, 4, 4);
+    margin-top: 20px;
+}
+
+.pokemonCard{
+    border: solid 2px;
+    width: 300px;
+    margin: 30px;
+}
+
+.buscar{
+    padding: 15px;
+}
+
+.name{
+    margin-left: 20px;
+}
+
+.idNumber{
+    position: relative;
+}
